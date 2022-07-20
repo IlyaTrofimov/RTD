@@ -6,4 +6,4 @@ if __name__ == "__main__":
         author="Ilya Trofimov",
         packages=find_packages(),
         version = '1.0',
-        install_requires=['numpy', 'scipy']
+        install_requires=['numpy', 'scipy'])
