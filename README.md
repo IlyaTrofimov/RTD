@@ -1,6 +1,6 @@
 # Representation Topology Divergence: A Method for Comparing Neural Network Representations
 
-This is an implementation of the algorithms from the paper https://arxiv.org/pdf/2106.04024:
+This is an implementation of the algorithms from the paper https://arxiv.org/pdf/2201.00058
 
 ```
 Barannikov, S., Trofimov, I., Balabin, N., & Burnaev, E. (2022).
